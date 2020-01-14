@@ -1,5 +1,5 @@
 # hello-world
-new here
+//new here
 
 #include<stdio.h>
 
